@@ -1,0 +1,29 @@
+Dataset Description
+
+The dataset used in this study contains air pollution measurements collected from multiple air quality monitoring stations across various cities in India. The data includes information about different atmospheric pollutants along with geographical and station-related details. Each record represents a pollutant measurement reported by a specific monitoring station at a given time.
+
+The dataset includes the following variables:
+
+Country – Indicates the country where the monitoring station is located. In this dataset, all observations correspond to India.
+
+State – The Indian state in which the monitoring station is located.
+
+City – The city where the monitoring station operates.
+
+Station – The specific air quality monitoring station reporting the pollutant levels.
+
+Last Update – The date and time when the pollutant measurement was last recorded.
+
+Latitude and Longitude – The geographical coordinates of the monitoring station.
+
+Pollutant ID – Identifies the type of pollutant measured. The dataset includes the following pollutants: PM2.5, PM10, NO₂, SO₂, CO, Ozone (O₃), and NH₃.
+
+Pollutant Min – The minimum recorded value of the pollutant during the observation period.
+
+Pollutant Max – The maximum recorded value of the pollutant during the observation period.
+
+Pollutant Avg – The average value of the pollutant for the given observation period.
+
+The dataset contains observations from a wide range of cities across different regions of India, allowing for comparative analysis of pollutant concentrations across locations. The pollutants included in the dataset represent both particulate pollutants (PM2.5 and PM10) and gaseous pollutants (NO₂, SO₂, CO, O₃, and NH₃), which are commonly used indicators of urban air quality.
+
+This dataset enables the analysis of pollution distribution across cities, the identification of highly polluted regions, and the examination of relationships between different pollutants.
